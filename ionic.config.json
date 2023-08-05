@@ -1,0 +1,7 @@
+{
+  "name": "Auto-Recognition System",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

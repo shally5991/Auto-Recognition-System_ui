@@ -1,0 +1,7 @@
+.popupPosition{
+    position: absolute;
+    top: 100px;
+    margin-left:auto;
+    margin-right:auto;
+    --offset-x: 10px
+}
